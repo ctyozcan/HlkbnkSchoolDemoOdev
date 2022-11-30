@@ -1,0 +1,34 @@
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\SchoolDemo\SchoolDemo\bin\Debug\net6.0-windows\SchoolDemo.exe
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\SchoolDemo\SchoolDemo\bin\Debug\net6.0-windows\SchoolDemo.deps.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\SchoolDemo\SchoolDemo\bin\Debug\net6.0-windows\SchoolDemo.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\SchoolDemo\SchoolDemo\bin\Debug\net6.0-windows\SchoolDemo.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\SchoolDemo\SchoolDemo\bin\Debug\net6.0-windows\SchoolDemo.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\SchoolDemo.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\SchoolDemo.Form1.resources
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\SchoolDemo.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\SchoolDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\SchoolDemo.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\SchoolDemo.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\SchoolDemo.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\SchoolDemo.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\refint\SchoolDemo.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\SchoolDemo.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\SchoolDemo.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\ref\SchoolDemo.dll
+C:\Users\ctyoz\VS2022Projects\HlkbnkOdev\OdevHLKBNK\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\SchoolDemo.csproj.AssemblyReference.cache
+C:\Users\ctyoz\VS2022Projects\HlkbnkOdev\OdevHLKBNK\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\SchoolDemo.Form1.resources
+C:\Users\ctyoz\VS2022Projects\HlkbnkOdev\OdevHLKBNK\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\SchoolDemo.csproj.GenerateResource.cache
+C:\Users\ctyoz\VS2022Projects\HlkbnkOdev\OdevHLKBNK\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\SchoolDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ctyoz\VS2022Projects\HlkbnkOdev\OdevHLKBNK\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\SchoolDemo.AssemblyInfoInputs.cache
+C:\Users\ctyoz\VS2022Projects\HlkbnkOdev\OdevHLKBNK\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\SchoolDemo.AssemblyInfo.cs
+C:\Users\ctyoz\VS2022Projects\HlkbnkOdev\OdevHLKBNK\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\SchoolDemo.csproj.CoreCompileInputs.cache
+C:\Users\ctyoz\VS2022Projects\HlkbnkOdev\OdevHLKBNK\SchoolDemo\SchoolDemo\bin\Debug\net6.0-windows\SchoolDemo.exe
+C:\Users\ctyoz\VS2022Projects\HlkbnkOdev\OdevHLKBNK\SchoolDemo\SchoolDemo\bin\Debug\net6.0-windows\SchoolDemo.deps.json
+C:\Users\ctyoz\VS2022Projects\HlkbnkOdev\OdevHLKBNK\SchoolDemo\SchoolDemo\bin\Debug\net6.0-windows\SchoolDemo.runtimeconfig.json
+C:\Users\ctyoz\VS2022Projects\HlkbnkOdev\OdevHLKBNK\SchoolDemo\SchoolDemo\bin\Debug\net6.0-windows\SchoolDemo.dll
+C:\Users\ctyoz\VS2022Projects\HlkbnkOdev\OdevHLKBNK\SchoolDemo\SchoolDemo\bin\Debug\net6.0-windows\SchoolDemo.pdb
+C:\Users\ctyoz\VS2022Projects\HlkbnkOdev\OdevHLKBNK\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\SchoolDemo.dll
+C:\Users\ctyoz\VS2022Projects\HlkbnkOdev\OdevHLKBNK\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\refint\SchoolDemo.dll
+C:\Users\ctyoz\VS2022Projects\HlkbnkOdev\OdevHLKBNK\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\SchoolDemo.pdb
+C:\Users\ctyoz\VS2022Projects\HlkbnkOdev\OdevHLKBNK\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\SchoolDemo.genruntimeconfig.cache
+C:\Users\ctyoz\VS2022Projects\HlkbnkOdev\OdevHLKBNK\SchoolDemo\SchoolDemo\obj\Debug\net6.0-windows\ref\SchoolDemo.dll
