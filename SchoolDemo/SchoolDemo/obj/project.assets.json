@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ctyoz\\VS2022Projects\\HlkbnkOdev\\OdevHLKBNK\\SchoolDemo\\SchoolDemo\\SchoolDemo.csproj",
+      "projectUniqueName": "C:\\Users\\ctyoz\\VS2022Projects\\HlkbnkOdev\\SchoolDemo\\SchoolDemo\\SchoolDemo.csproj",
       "projectName": "SchoolDemo",
-      "projectPath": "C:\\Users\\ctyoz\\VS2022Projects\\HlkbnkOdev\\OdevHLKBNK\\SchoolDemo\\SchoolDemo\\SchoolDemo.csproj",
+      "projectPath": "C:\\Users\\ctyoz\\VS2022Projects\\HlkbnkOdev\\SchoolDemo\\SchoolDemo\\SchoolDemo.csproj",
       "packagesPath": "C:\\Users\\ctyoz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ctyoz\\VS2022Projects\\HlkbnkOdev\\OdevHLKBNK\\SchoolDemo\\SchoolDemo\\obj\\",
+      "outputPath": "C:\\Users\\ctyoz\\VS2022Projects\\HlkbnkOdev\\SchoolDemo\\SchoolDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
